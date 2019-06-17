@@ -1,0 +1,12 @@
+C:\Users\Orlovskiy.APPSYS\documents\visual studio 2017\Projects\Wave\Wave\bin\Debug\bass.dll
+C:\Users\Orlovskiy.APPSYS\documents\visual studio 2017\Projects\Wave\Wave\bin\Debug\Wave.exe.config
+C:\Users\Orlovskiy.APPSYS\documents\visual studio 2017\Projects\Wave\Wave\bin\Debug\Wave.exe
+C:\Users\Orlovskiy.APPSYS\documents\visual studio 2017\Projects\Wave\Wave\bin\Debug\Wave.pdb
+C:\Users\Orlovskiy.APPSYS\documents\visual studio 2017\Projects\Wave\Wave\bin\Debug\Bass.Net.dll
+C:\Users\Orlovskiy.APPSYS\documents\visual studio 2017\Projects\Wave\Wave\bin\Debug\Bass.Net.xml
+C:\Users\Orlovskiy.APPSYS\documents\visual studio 2017\Projects\Wave\Wave\obj\Debug\Wave.csprojResolveAssemblyReference.cache
+C:\Users\Orlovskiy.APPSYS\documents\visual studio 2017\Projects\Wave\Wave\obj\Debug\Wave.Properties.Resources.resources
+C:\Users\Orlovskiy.APPSYS\documents\visual studio 2017\Projects\Wave\Wave\obj\Debug\Wave.csproj.GenerateResource.Cache
+C:\Users\Orlovskiy.APPSYS\documents\visual studio 2017\Projects\Wave\Wave\obj\Debug\Wave.exe
+C:\Users\Orlovskiy.APPSYS\documents\visual studio 2017\Projects\Wave\Wave\obj\Debug\Wave.pdb
+C:\Users\Orlovskiy.APPSYS\documents\visual studio 2017\Projects\Wave\Wave\obj\Debug\Wave.Form1.resources
